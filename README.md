@@ -5,7 +5,7 @@
 
 
 
-![Sophia GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiabalico&show_icons=true&theme=bluebarry)
+![Sophia GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiabalico&show_icons=true&theme=blueberry)
 
 
 ### Tecnologias que eu uso no meu dia
